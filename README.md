@@ -4,7 +4,7 @@ An Android eye tracking application using MediaPipe FaceLandmarker for iris dete
 
 ## Features
 
-- **🎯 9-Point Calibration** - Comprehensive training for accurate gaze mapping
+- *🎯 9-Point Calibration** - Comprehensive training for accurate gaze mapping
 - **👁️ Blink Detection** - Pauses tracking during blinks
 - **📊 Calibration Quality Score** - Know how good your calibration is
 - **🔧 Adjustable Settings** - Tune sensitivity, dwell time, and more
